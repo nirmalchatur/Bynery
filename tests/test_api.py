@@ -1,5 +1,10 @@
-import pytest
+import requests
 
+def test_users_api():
+    response = requests.get("https://jsonplaceholder.typicode.com/users")
 
-def test_api_healthcheck():
-    assert True
+    assert response.status_code == 200
+
+    data = response.json()
+
+    assert len(data) > 0
