@@ -5,7 +5,7 @@ A scalable UI and API Automation Framework developed using **Python**, **Playwri
 This project demonstrates modern QA Automation practices including UI testing, API testing, configuration management, HTML reporting, and CI/CD readiness.
 
 ---
-
+Google Docs Link - https://docs.google.com/document/d/1GzW4jAekYi0jaRUBKz_3KArldaQaMRJG3xquohAMKvw/edit?usp=sharing
 # 📌 Features
 
 - ✅ UI Automation using Playwright
