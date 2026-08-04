@@ -37,4 +37,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: pytest-report
+<<<<<<< HEAD
           path: reports/report.html
+=======
+          path: reports/report.html
+>>>>>>> 3c9540b6a0b57ae51c1e8eb9e1e150a27f13d0b7
